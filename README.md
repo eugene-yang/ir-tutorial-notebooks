@@ -10,12 +10,14 @@ Please refer to the repository of the two tutorials for more details.
 ## Agenda
 
 - Part 1: Statistical Retrieval Model with PyTerrier [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/1_pyterrier_basics.ipynb)
+	- Part 1.1: CLIR BM25 with Anserini [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/1.1_anserini_bm25.ipynb)
 - Part 2: Retrieval Pipeline with PyTerrier [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/2_more_pyterrier.ipynb)
-	- Part 2 Extra: More piplines using neural models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/2.e_pyterrier_w_neural.ipynb)
-- Part 2.5: CLIR BM25 with Anserini [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/2.5_anserini_bm25.ipynb)
-- Part 3: Reranking using Cross-Encoder [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/3_cross_encoder_reranking.ipynb)
-- Part 4: CLIR with PLAID-X [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/4_plaid-x.ipynb)
-- Part 5: CLIR with BLADE [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/5_blade.ipynb)
+- Part 3: More piplines using neural models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/3_pyterrier_w_neural.ipynb)
+	- Part 3.1: Reranking using Cross-Encoder [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/3.1_cross_encoder_reranking.ipynb)
+- Part 4: End-to-End Neural IR (with CLIR as Example)
+	- Part 4.1: CLIR with DPR [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/4.1_DPR.ipynb)
+	- Part 4.2: CLIR with PLAID-X [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/4.2_plaid-x.ipynb)
+	- Part 4.3: CLIR with BLADE [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/4.3_blade.ipynb)
 
 ## Citation
 If you would like to cite the two tutorials, please use the following Bibtex.
