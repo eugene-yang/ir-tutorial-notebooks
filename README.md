@@ -9,6 +9,8 @@ Please refer to the repository of the two tutorials for more details.
 
 ## Agenda
 
+Slides: [JHU One Drive](https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/eyang35_jh_edu/ERigzD7c_wlIrU8gyT0GZu4BDL9Bk5rt87VVJgtzdDQCgw?e=eYPTY5)
+
 - Part 1: Statistical Retrieval Model with PyTerrier [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/1_pyterrier_basics.ipynb)
 	- Part 1.1: CLIR BM25 with Anserini [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/1.1_anserini_bm25.ipynb)
 - Part 2: Retrieval Pipeline with PyTerrier [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugene-yang/ir-tutorial-notebooks/blob/main/2_more_pyterrier.ipynb)
